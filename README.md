@@ -5,9 +5,15 @@ Currently working on data analysis and reporting projects. Continuously improvin
 
 📬 Reach me at: resulisikk7@gmail.com
 
+### Featured project
+
+**[FIFA World Cup 2026: Performance & Value Analysis](https://github.com/resulisik/fifa2026-analysis)**: a Python pipeline over 100 matches and 5,012 player-match records, ten SQL analysis queries, and a regression model that ranks players and teams by value for money.
+
+📍 Los Angeles, CA · open to Data Analyst and junior Data Engineer roles
+
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/tr/resul-isik/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resul-isik/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@resulisik)
 
 ### Languages & Tools

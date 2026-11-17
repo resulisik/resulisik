@@ -7,7 +7,7 @@ Currently working on data analysis and reporting projects. Continuously improvin
 
 ### Featured projects
 
-**[Where California's Jobs Are Growing (2021–2026)](https://github.com/resulisik/california-jobs-by-sector)**: five years of BLS payroll data and Indeed job postings in a Python + SQLite pipeline, 12 SQL queries validated against the state's official release, and an [interactive dashboard](https://resulisik.github.io/california-jobs-by-sector/).
+**[Sector Pulse: Jobs and Stock Returns by Sector, California vs U.S. (2021–2026)](https://github.com/resulisik/california-jobs-by-sector)**: BLS payroll data, S&P 500 sector funds, Indeed job postings and a hand-collected three-month dataset in a Python + SQLite pipeline, 24 SQL queries validated against published figures, and an [interactive dashboard](https://resulisik.github.io/california-jobs-by-sector/).
 
 **[FIFA World Cup 2026: Performance & Value Analysis](https://github.com/resulisik/fifa2026-analysis)**: a Python pipeline over 100 matches and 5,012 player-match records, ten SQL analysis queries, and a regression model that ranks players and teams by value for money.
 
